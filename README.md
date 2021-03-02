@@ -1,8 +1,8 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+@ Go to src/components/card.js for the form.
+@ for CSS of the form Go to App.css in the src folder.
 
-## Available Scripts
+
 
 In the project directory, you can run:
 
